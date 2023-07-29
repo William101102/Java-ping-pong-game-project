@@ -1,33 +1,17 @@
 # Java-ping-pong-game-project
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Credits](#credits)
-- [Support](#support)
+- [Description](#Description)
+- [Technology](#Technology)
 
-## Installation
+## Description
 
-Provide instructions on how to install and set up your project. This could include dependencies, Java version requirements, and any other setup steps.
+The "Ping Pong Ball Java Project" is a simple Java-based implementation of the classic Ping Pong game. The project utilizes Java's Swing library to create a graphical user interface for the game. Players control paddles on either side of the screen to bounce a ball back and forth. The goal is to prevent the ball from crossing their side of the screen while attempting to make the ball pass the opponent's paddle to score points.
 
-## Usage
+## Technology
 
-Explain how to use your Ping Pong Ball Java project. Provide code examples or a basic tutorial if necessary. You can also include screenshots or gifs to showcase the project's functionality.
+Project is built with:
 
-## Contributing
+  * Java version 17.0.2
+  * Visual Studio Code Version: 1.76.0
 
-Encourage others to contribute to your project. Explain how they can do it, what guidelines they should follow, and how to submit their contributions.
-
-## License
-
-Include the license information for your project. It's important to clarify the terms under which others can use and modify your code.
-
-## Credits (Optional)
-
-If you used any external libraries, resources, or had contributors to the project, acknowledge and credit them here.
-
-## Support
-
-Provide information on how users can get support if they encounter issues or have questions about your project.
 
