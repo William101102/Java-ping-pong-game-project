@@ -16,7 +16,7 @@ Project is built with:
 
 ## Project Concepts
 
- * #Java Swing#: The graphical user interface (GUI) components and window management are handled using Java Swing.
+ * #Java Swing: The graphical user interface (GUI) components and window management are handled using Java Swing.
  * Threads: The game loop is run in a separate thread using the Runnable interface and Thread class to ensure smooth and responsive gameplay.
  * Graphics: Graphics objects are used to draw the game elements (paddles, ball, scores, centerline) on the game panel.
  * Keyboard Input: The game captures keyboard input using the KeyListener interface to control the paddles.
